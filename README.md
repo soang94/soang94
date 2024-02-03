@@ -1,6 +1,6 @@
 ### 내가 바로 이승상
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Gomdollee🧸&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=soang94&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 <h3 align="center"> 
  Hi there 👋<br><br>
  My name is junwon Lee<br><br>
@@ -38,7 +38,7 @@
   
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gomdollee)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soang94)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
