@@ -3,8 +3,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=soang94&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 <h3 align="center"> 
  Hi there 👋<br><br>
- My name is junwon Lee<br><br>
- I am a full-stack develope
+ My name is seungsang lee<br><br>
+ I want to be a backend developer
 </h3>
 
 <br>
